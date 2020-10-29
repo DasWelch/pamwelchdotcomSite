@@ -3,9 +3,9 @@
   "name": "pamwelchdotcomsite",
   "description": null,
   "icons": {
-    "60": "/pamwelchdotcom/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_60x60.png",
-    "128": "/pamwelchdotcom/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_128x128.png",
-    "512": "/pamwelchdotcom/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_512x512.png"
+    "60": "/pamwelchdotcomsite/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_60x60.png",
+    "128": "/pamwelchdotcomsite/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_128x128.png",
+    "512": "/pamwelchdotcomsite/icons-b9f7b61e18c4d8136d8c96f61341d02b/firefox_app_512x512.png"
   },
   "developer": {
     "name": null,
